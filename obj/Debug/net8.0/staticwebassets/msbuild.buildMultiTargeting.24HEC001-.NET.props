@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/24HEC001-.NET.props" />
+</Project>
